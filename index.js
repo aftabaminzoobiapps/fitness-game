@@ -8,7 +8,7 @@ import {name as appName} from './app.json';
 import AppMetrica from 'react-native-appmetrica';
 
 AppMetrica.activate({
-    apiKey: 'daa0a500-fe17-491a-9074-9eb55bebb8df',
+    apiKey: '',
     sessionTimeout: 120,
     firstActivationAsUpdate: false,
   });
